@@ -1,4 +1,4 @@
-# News Summarization using Recurrent Neural Networks (RNN)
+# Inshorts News Summarization using LSTM
 
 ## Introduction
 Inshorts is a news app started in 2013 that delivers news summaries in less than 60 words. This business use case demonstrates how to build a news summarization model using Recurrent Neural Networks (RNN).
@@ -79,4 +79,4 @@ The model's performance is evaluated using metrics like ROUGE. Below are some sa
 
 ---
 
-For more details, refer to the [GitHub Repository]([https://github.com/your-repo-link](https://github.com/Aditya2600/News-Summarization-using-Recurrent-Neural-Networks-RNN).
+For more details, refer to the [GitHub Repository](https://github.com/Aditya2600/News-Summarization-using-Recurrent-Neural-Networks-RNN).
